@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules
+
+# TypeScript build directory
+/dist
+
+# Editor directories
+.vscode
+.idea
+
+# macOS directories
+.DS_Store
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
